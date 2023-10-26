@@ -1,11 +1,11 @@
-**# Lesson File Format for JavaScript:**
+# Lesson File Format for JavaScript:
 
 Welcome to the JavaScript lesson series! To maintain consistency and make it easier for learners to follow your lessons, please follow these guidelines when creating your lesson files.
 
-**## File Naming:**
+## File Naming:
 - Each lesson file should be named using the following format: `lessonX.js`, where X is the lesson number.
 
-**## Lesson Structure:**
+## Lesson Structure:
 - Start each lesson with a comment block that briefly introduces the topic of the lesson and its relevance.
   ```javascript
   /* Introduction to JavaScript Functions
@@ -23,11 +23,11 @@ Welcome to the JavaScript lesson series! To maintain consistency and make it eas
   console.log(age); // Printing the variable
   ```
 
-**## Comments:**
+## Comments:
 - Comment your code thoroughly to explain the purpose of each code segment and provide context for learners.
 - Use single-line comments (`//`) for brief explanations and multi-line comments (`/* ... */`) for longer descriptions.
 
-**## Data Types:**
+## Data Types:
 - Explain the concept of data types in JavaScript and how to use them. Provide practical examples.
   ```javascript
   // Data Types
@@ -39,13 +39,13 @@ Welcome to the JavaScript lesson series! To maintain consistency and make it eas
   // - Object: Used to store collections of related data
   ```
 
-**## Console Output:**
+## Console Output:
 - Emphasize using `console.log` for outputting information to the console.
   ```javascript
   console.log("This is how you print to the console.");
   ```
 
-**## Variable Declaration:**
+## Variable Declaration:
 - Explain how to declare and use variables in JavaScript.
   ```javascript
   // Declare a variable and assign a value
@@ -55,10 +55,10 @@ Welcome to the JavaScript lesson series! To maintain consistency and make it eas
   console.log(name);
   ```
 
-**## Code Quality:**
+## Code Quality:
 - Encourage good coding practices, such as using meaningful variable names and writing clean, readable code.
 
-**## Conclusion:**
+## Conclusion:
 - Summarize the key points of the lesson.
 - Encourage learners to practice what they've learned and provide hints or exercises for them to try.
 
