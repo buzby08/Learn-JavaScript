@@ -2,7 +2,11 @@
 
 This will teach you the basics of JavaScript.
 
-# Lesson 1 (https://github.com/buzby08/Learn-JavaScript/blob/973b97f5429b8d7e6251df0ecd5197f2098bf35b/Lesson%201.js):
+In order to access the lessons, either:
+  - click the lesson name **OR**
+  - Go to the lessons branch and select the lesson you want to access
+
+# [Lesson 1](https://github.com/buzby08/Learn-JavaScript/blob/6b1b8455ab879ca79292c1611aacee94f4289c1a/lesson%201.js):
   - Console.log():
       This lesson, I will teach you how to use the console.log method. You will learn basics of JS operators
   - Data Types, and operators:
