@@ -2,7 +2,7 @@
 
 This will teach you the basics of JavaScript.
 
-# Lesson 1:
+# Lesson 1 (Lesson 1.js):
   - Console.log():
       This lesson, I will teach you how to use the console.log method. You will learn basics of JS operators
   - Data Types, and operators:
